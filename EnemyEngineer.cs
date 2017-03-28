@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class dsghedshsd : MonoBehaviour {
+public class EnemyEngineer : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
@@ -11,8 +11,6 @@ public class dsghedshsd : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-
-		gdsfhserfhedrheda
 		
 	}
 }
