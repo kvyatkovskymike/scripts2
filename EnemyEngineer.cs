@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class EnemyEngineer : MonoBehaviour {
 	[SerializeField]
-	private float speed = 0.5f;
+	public float speed = 0.5f;
 	public bool CheckEnemy = false;
 	private SpriteRenderer sprite;
 	// Use this for initialization
